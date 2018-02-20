@@ -1,3 +1,4 @@
+source("scripts/load.R")
 generarador.zeros_ones<-function(N = 100, factor=FALSE){
   vector<-NULL
   for(i in 1:N){
